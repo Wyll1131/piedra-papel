@@ -1,0 +1,7 @@
+C:\Users\willi\OneDrive\Documentos\GitHub\piedra-papel\piedra2\piedra2\bin\Debug\piedra2.exe.config
+C:\Users\willi\OneDrive\Documentos\GitHub\piedra-papel\piedra2\piedra2\bin\Debug\piedra2.exe
+C:\Users\willi\OneDrive\Documentos\GitHub\piedra-papel\piedra2\piedra2\bin\Debug\piedra2.pdb
+C:\Users\willi\OneDrive\Documentos\GitHub\piedra-papel\piedra2\piedra2\obj\Debug\piedra2.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\piedra-papel\piedra2\piedra2\obj\Debug\piedra2.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\piedra-papel\piedra2\piedra2\obj\Debug\piedra2.exe
+C:\Users\willi\OneDrive\Documentos\GitHub\piedra-papel\piedra2\piedra2\obj\Debug\piedra2.pdb

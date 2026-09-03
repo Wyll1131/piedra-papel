@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\willi\\OneDrive\\Documentos\\GitHub\\piedra-papel\\piedra2\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\piedra-papel\\piedra2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9545A457-748D-4175-81D0-72B1D4679E80}|piedra2\\piedra2.csproj|c:\\users\\willi\\onedrive\\documentos\\github\\piedra-papel\\piedra2\\piedra2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9545A457-748D-4175-81D0-72B1D4679E80}|piedra2\\piedra2.csproj|c:\\users\\usuario\\onedrive\\documentos\\github\\piedra-papel\\piedra2\\piedra2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9545A457-748D-4175-81D0-72B1D4679E80}|piedra2\\piedra2.csproj|solutionrelative:piedra2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\Documentos\\GitHub\\piedra-papel\\piedra2\\piedra2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\piedra-papel\\piedra2\\piedra2\\Program.cs",
               "RelativeDocumentMoniker": "piedra2\\Program.cs",
-              "ToolTip": "C:\\Users\\willi\\OneDrive\\Documentos\\GitHub\\piedra-papel\\piedra2\\piedra2\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\GitHub\\piedra-papel\\piedra2\\piedra2\\Program.cs",
               "RelativeToolTip": "piedra2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T15:11:02.764Z",
               "EditorCaption": ""
